@@ -55,7 +55,7 @@ I work with **Excel, Power BI, SQL, and AI-assisted analytics workflows** to cle
 
 **[→ Student Mental Health Analysis](./Power%20BI%20Projects/Student%20Mental%20Health%20Analysis)**
 
-**[→ Tata Retail Store Analysis](./Power%20BI%20Projects/Tata%20Retail%20Store%20Analysis)**
+**[→ Tata Retail Store Analysis](./[Power%20BI%20Projects/Tata%20Retail%20Store%20Analysis](https://github.com/David-Omang200/David-Omang-Analytics-Portfolio/tree/main/Power%20BI%20Projects/Tata%20Online%20Retail%20Store))**
 
 ---
 
