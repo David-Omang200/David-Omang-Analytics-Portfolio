@@ -1,8 +1,8 @@
-# Medical Equipment Procurement Analysis
+# Medical Insurance Cost Analysis
 
 ## Overview
 
-An Excel data analytics project analyzing medical equipment procurement data to understand procurement spending, supplier performance, equipment categories, purchasing trends, and overall procurement efficiency.
+An Excel data analytics project analyzing medical insurance data to understand insurance costs, customer demographics, lifestyle factors, and the key patterns associated with medical expenses.
 
 ## Tools Used
 
@@ -14,13 +14,13 @@ An Excel data analytics project analyzing medical equipment procurement data to 
 
 ## Analysis
 
-- Procurement spending
-- Supplier performance
-- Equipment category performance
-- Purchasing trends
-- Quantity and cost analysis
-- Supplier and product comparisons
-- Procurement expenditure patterns
+- Medical insurance costs
+- Customer demographics
+- Age and insurance cost patterns
+- Smoking status and medical expenses
+- Regional cost differences
+- Family and dependent patterns
+- Cost distribution and trends
 
 ## Key Skills Demonstrated
 
