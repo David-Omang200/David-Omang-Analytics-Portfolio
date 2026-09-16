@@ -119,11 +119,11 @@ Present findings in a way that can be understood by both technical and non-techn
 
 # 📫 Connect With Me
 
-🌐 **Portfolio:**
-https://david-omang.github.io/DavidTheAnalyst.github.io/
+🌐 **X:**
+[https://david-omang.github.io/DavidTheAnalyst.github.io/](https://x.com/OmangAnalytics)
 
 💻 **GitHub:**
-https://github.com/David-Omang
+[https://github.com/David-Omang](https://github.com/David-Omang200/David-Omang-Analytics-Portfolio/tree/main)
 
 ---
 
