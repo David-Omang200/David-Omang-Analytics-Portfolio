@@ -13,9 +13,9 @@ I work with **Excel, Power BI, SQL, and AI-assisted analytics workflows** to cle
 | Category          | Tools & Skills                                                                   |
 | ----------------- | -------------------------------------------------------------------------------- |
 | **Data Analysis** | Data Cleaning, Data Validation, Exploratory Analysis, KPI Development, Reporting |
-| **Excel**         | Pivot Tables, XLOOKUP, IF Functions, Data Cleaning, Dashboards                   |
+| **Excel**         | Pivot Tables, VLOOKUP, IF Functions, Data Cleaning, Dashboards                   |
 | **Power BI**      | Power Query, DAX, Data Modeling, Interactive Dashboards                          |
-| **SQL**           | MySQL, JOINs, Aggregations, Subqueries, CASE Statements, Data Analysis           |
+| **SQL**           | MySQL, JOINs, Aggregations, Data Analysis           |
 | **AI**            | AI-assisted research, analysis, productivity, and data workflows                 |
 | **Visualization** | Dashboard Design, Data Storytelling, Business Reporting                          |
 
