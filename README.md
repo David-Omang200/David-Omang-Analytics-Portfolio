@@ -35,9 +35,9 @@ I work with **Excel, Power BI, SQL, and AI-assisted analytics workflows** to cle
 
 **[→ E-Commerce Sales Analysis](./Excel%20Projects/E-commerce%20Analysis)**
 
-**[→ Medical Equipment Procurement Analysis](./Excel%20Projects/Medical%20Equipment%20Procurement%20Analysis)**
+**[→ Medical Equipment Procurement Analysis](./Excel%20Projects/Medical%20Equipment%20Procurement)**
 
-**[→ Medical Insurance Cost Analysis](./Excel%20Projects/Medical%20Insurance%20Cost%20Analysis)**
+**[→ Medical Insurance Cost Analysis](./Excel%20Projects/Excel%20Projects/Medical%20Insurance%20Cost)**
 
 ---
 
@@ -51,11 +51,11 @@ I work with **Excel, Power BI, SQL, and AI-assisted analytics workflows** to cle
 
 ### 🔗 Explore Power BI Projects
 
-**[→ Bliss Restaurant Analysis](./Power%20BI%20Projects/Bliss%20Restaurant%20Analysis)**
+**[→ Bliss Restaurant Orders Analysis](./Power%20BI%20Projects/Bliss%20Restaurant%20Orders)**
 
-**[→ Student Mental Health Analysis](./Power%20BI%20Projects/Student%20Mental%20Health%20Analysis)**
+**[→ Student Mental Health Analysis](./Power%20BI%20Projects/Student%20Mental%20Health)**
 
-**[→ Tata Retail Store Analysis](./[Power%20BI%20Projects/Tata%20Retail%20Store%20Analysis](https://github.com/David-Omang200/David-Omang-Analytics-Portfolio/tree/main/Power%20BI%20Projects/Tata%20Online%20Retail%20Store))**
+**[→ Tata Online Retail Store Analysis](./Power%20BI%20Projects/Tata%20Online%20Retail%20Store)**
 
 ---
 
@@ -86,11 +86,11 @@ ORDER BY
 Aggregate Functions
 INNER JOIN
 LEFT JOIN
-Subqueries
 Date Functions
 ```
 
 **[→ Explore ClassicModels SQL Analysis](./SQL%20Projects/ClassicModels%20Analysis)**
+
 
 ---
 
@@ -114,29 +114,6 @@ Turn analytical findings into actionable business insights.
 
 📌 **Communicate data clearly**
 Present findings in a way that can be understood by both technical and non-technical stakeholders.
-
----
-
-# 📂 Portfolio Overview
-
-```text
-DavidTheAnalyst.github.io/
-│
-├── 📗 Excel Projects/
-│   ├── E-commerce Analysis/
-│   ├── Medical Equipment Procurement Analysis/
-│   └── Medical Insurance Cost Analysis/
-│
-├── 📈 Power BI Projects/
-│   ├── Bliss Restaurant Analysis/
-│   ├── Student Mental Health Analysis/
-│   └── Tata Retail Store Analysis/
-│
-├── 🗄️ SQL Projects/
-│   └── ClassicModels Analysis/
-│
-└── 📄 README.md
-```
 
 ---
 
