@@ -1,6 +1,6 @@
 Project Overview
 
-This project analyzes customer spending and sales performance for Goodness Fashion House using Microsoft Excel. The goal was to understand revenue trends, customer purchasing behavior, and the performance of different customer acquisition channels and locations to support data-driven business decisions.
+This project analyzes customer spending and sales performance for Gs_Couture using Microsoft Excel. The goal was to understand revenue trends, customer purchasing behavior, and the performance of different customer acquisition channels and locations to support data-driven business decisions.
 
 Tools Used: Microsoft Excel, PivotTables, Charts, KPI Analysis, Interactive Dashboard
 
