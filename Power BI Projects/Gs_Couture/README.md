@@ -54,5 +54,3 @@ The dashboard provides management with insights that can support:
 **Conclusion**
 
 This project demonstrates my ability to transform retail data into meaningful business insights using Excel and Power BI. It highlights how data analytics can help fashion retailers understand their customers, monitor performance, and make informed business decisions.
-
-**Note:** Transaction dates and individual order values in this project were simulated for analytical purposes. Therefore, time-based trends represent patterns within the project dataset rather than verified historical business performance.
